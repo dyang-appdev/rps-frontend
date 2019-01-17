@@ -73,9 +73,9 @@ h1 {
 
 .fancy-link {
   border-color: rgb(23, 162, 184);
-  border-radius: 10px;
+  border-radius: 3px;
   border-style: solid;
-  border-width: 2px;
+  border-width: 1px;
   box-sizing: border-box;
   color: rgb(23, 162, 184);
   display: inline-block;
